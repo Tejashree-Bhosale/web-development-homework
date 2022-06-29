@@ -1,0 +1,147 @@
+
+.top
+{
+    position:absolute;
+    left:800px;
+    height:100px;
+}
+.name
+{
+    font-size:50px;
+    font-family:Script MT ;
+    position: absolute;
+    left:550px;
+    top:150px;
+    color:orangered;
+}
+.student
+{
+    font-family: Courgette;
+    position: absolute;
+    left:550px;
+    top:230px;
+    color:orangered;
+}
+.bottom
+{
+    position:absolute;
+    right:900px;
+    height:100px;
+    bottom:200px;
+}
+.mountain
+{
+
+    position:absolute;
+    left:275px;
+    bottom:0px;
+    height:250px;
+}
+.header
+{
+    height:545px;
+    background-color:greenyellow;
+}
+.profile
+{
+    position: absolute;
+    height:600px;
+    top:700px;
+    
+}
+.pic
+{
+    position: absolute;
+    left: 500px;
+    height:250px;
+    width:250px;
+    border: 1px solid black;
+    border-radius:300px;
+}
+.intro
+{
+    font-size:35px;
+    font-family:Cooper Black;
+    position: absolute;
+    top:250px;
+    left:580px;
+    color:red;
+}
+.p
+{
+
+    font-family: Courgette;
+    width:200px;
+    position: absolute;
+    top:300px;
+    left:580px;
+    
+}
+.skills
+{
+    position: absolute;
+    height:1300px;
+}
+.myskill
+{
+    width:50px;
+    font-family:Cooper Black;
+    position: absolute;
+    left: 580px;
+    top:700px;
+    color: red;
+}
+.html
+{
+    position: absolute;
+    height:250px;
+    width:250px;
+    border-radius:10px;
+    float: left;
+    top:870px;
+    left:200px;
+}
+
+.info
+{
+    position: absolute;
+    width:600px;
+    left:500px;
+    top:900px;
+
+}
+.h2
+{
+    position: absolute;
+    width:600px;
+    left:500px;
+    top:850px;
+    color:red;
+    font-family: Lucida Calligraphy;
+}
+.h3
+{
+    position: absolute;
+    width:600px;
+    left:200px;
+    top:1160px;
+    color:red;
+    font-family: Lucida Calligraphy;
+}
+.css
+{
+    position: absolute;
+    height:250px;
+    width:250px;
+    border-radius:150px;
+    float:right;
+    left: 820px;
+    top:1100px;
+}
+.styles
+{
+    position: absolute;
+    top:1200px;
+    width: 600px;
+    left: 200px;
+}
