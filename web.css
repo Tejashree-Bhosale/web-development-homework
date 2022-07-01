@@ -1,4 +1,8 @@
 
+body
+{
+    text-align: center;
+}
 .top
 {
     position:absolute;
@@ -74,7 +78,7 @@
     width:200px;
     position: absolute;
     top:300px;
-    left:580px;
+    left:530px;
     
 }
 .skills
@@ -144,4 +148,49 @@
     top:1200px;
     width: 600px;
     left: 200px;
+}
+.end
+{
+    height:1000px;
+    position: absolute;
+}
+.thanks
+{
+    position: absolute;
+    color: red;
+    top: 1400px;
+    left: 450px;
+    width: 500px;
+    font-family:Broadway;
+    font-size: 50px;
+}
+.thanks:hover
+{
+    color:deepskyblue;
+}
+.para
+{
+    position: absolute;
+    top: 1490px;
+    left:300px;
+    width:800px;
+    color: orangered;
+    font-size:30px;
+}
+.btn
+{
+    position: absolute;
+    background-color: blue;
+   border-radius:30px;
+   padding:10px 20px 10px 20px;
+   text-decoration:none;
+   color: aliceblue;
+   top: 1630px;
+   width:130px;
+   left: 510px;
+}
+.btn:hover
+{
+    color: hotpink;
+    text-decoration: none;
 }
